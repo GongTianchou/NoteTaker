@@ -5,7 +5,7 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [## Deployed application](#deployed-application)
+4. [Deployed application](#deployed-application)
 5. [Contributor](#contributor)
 6. [License](#license)
 7. [Questions](#questions)
