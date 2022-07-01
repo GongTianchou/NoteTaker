@@ -28,7 +28,7 @@ npm start
 
 ## Deployed application
 
-
+[SmallNoteTaker](https://smallnotetaker.herokuapp.com/)
 ## Contributor
 
 * Tianchou Gong
